@@ -22,3 +22,5 @@ This repo contains technical questions for interviewing web GIS candidates fall 
 `const people = [{'name': 'Derek', 'age':38}, {'name': 'Erich', 'age':59},{'name': 'Kim', 'age':38},{'name': 'Sean', 'age': null}];`
 5.	In the same `script.js` file, add code to iterate over each of those divs and output their ID properties to the console.
 6.  Use CSS and the existing structure to make the navigation links in the site header follow a responsive design. The links should be listed horizontally for large screens and should appear stacked vertically on screens with width <800px (kudos will be given for extra style points).
+
+
