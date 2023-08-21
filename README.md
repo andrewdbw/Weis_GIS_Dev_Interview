@@ -1,5 +1,5 @@
 # GIS-Dev-Interview
-This repo contains technical questions for interviewing web GIS candidates
+This repo contains technical questions for interviewing GIS developer candidates
 
 ## Instructions
 
