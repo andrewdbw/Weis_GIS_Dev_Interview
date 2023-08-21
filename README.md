@@ -15,12 +15,8 @@ This repo contains technical questions for interviewing GIS developer candidates
 1.  Write a CSS selector to find all divs whose CSS class is `container`.
 2.	Modify above selector to find all divs whose CSS class is `container` that is also a child of a div with CSS class `header`.
 3.	Modify above selector to find all the same divs that also have CSS class `enabled`.
-4.  Follow the developer docs on the [ArcGIS API for JS 4.x Get Started page](https://developers.arcgis.com/javascript/latest/get-started/) to accomplish the following:
-    - Add a map to the page and set its height to 80% and width to fullscreen 
-    - Center the map at the coordinates of the USFS Geospatial Technology Applications Center (GTAC) in Salt Lake City (approximate location is fine)
-5.  Assume you have a JS array of objects (structured as shown below). Add code in the `script.js` file to returns an array of people whose age is less than 50 and is not null. Log the resulting names to the console.
+4.  Assume you have a JS array of objects (structured as shown below). Add code in the `script.js` file to returns an array of people whose age is less than 50 and is not null. Log the resulting names to the console.
 `const people = [{'name': 'Derek', 'age':38}, {'name': 'Erich', 'age':59},{'name': 'Kim', 'age':38},{'name': 'Sean', 'age': null}];`
 5.	In the same `script.js` file, add code to iterate over each of those divs and output their ID properties to the console.
-6.  Use CSS and the existing structure to make the navigation links in the site header follow a responsive design. The links should be listed horizontally for large screens and should appear stacked vertically on screens with width <800px (kudos will be given for extra style points).
 
 
