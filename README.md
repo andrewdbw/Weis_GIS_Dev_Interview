@@ -20,3 +20,22 @@ This repo contains technical questions for interviewing GIS developer candidates
 5.	In the same `script.js` file, add code to iterate over each of those divs and output their ID properties to the console.
 
 
+---
+## Running Solutions
+
+### Python Questions
+
+
+**Run `gis_dev_interview.py`:**
+
+```
+▶ python starter-project/gis_dev_interview.py
+```
+
+- Question 1 will output to json file
+- Question 2 will output to terminal
+
+### JS/HTML/CSS Questions
+
+- **Open Index.html in browser**
+- **Console Logs available in browser Dev Tools**

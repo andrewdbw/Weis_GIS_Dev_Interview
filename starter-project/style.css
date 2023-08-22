@@ -1,0 +1,15 @@
+
+/* JS/HTML/CSS Quetsions 1,2 and 3 */
+
+.container {
+    color: black;
+}
+
+.site-header .container {
+    background-color: aqua;
+}
+
+.site-header .container.enabled {
+    background-color: aqua;
+    color: red;
+}

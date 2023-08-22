@@ -1,0 +1,4 @@
+# Ignore All Output FIles
+
+starter-project/output/*
+starter-project/__pycache__/*
